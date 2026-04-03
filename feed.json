@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "3DWindt.de",
+    "title": "3DWindt",
     "description": "",
     "home_page_url": "https://windelwilli.github.io/3dwindt",
     "feed_url": "https://windelwilli.github.io/3dwindt/feed.json",
     "user_comment": "",
+    "icon": "https://windelwilli.github.io/3dwindt/media/website/3dwindt-removebg-preview.png",
     "author": {
         "name": "Frank Windt"
     },
