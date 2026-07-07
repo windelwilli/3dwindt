@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://windelwilli.github.io/3dwindt/sitemap.xml
+Disallow: /
